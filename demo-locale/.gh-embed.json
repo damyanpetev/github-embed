@@ -1,0 +1,13 @@
+{
+    "embed": [
+        {
+    		"type": "html",
+    		"label": "HTML",
+    		"path": "demo-locale/demo.html"
+    	}, {
+    		"type": "js",
+    		"label": "埋め込み",
+    		"path": "demo-locale/.gh-embed.json"
+    	}
+    ]
+}
